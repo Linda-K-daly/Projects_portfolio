@@ -1,7 +1,9 @@
+
+
 * {
   box-sizing: border-box;
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
   font-family: 'PT Sans', sans-serif;
 }
 
@@ -18,8 +20,8 @@
 }
 
 .services {
-  background-image: '/images/cappadoce.jpg';
-  background-position:center;
+  /* background-image: url(./public/images/cappadoce.jpg); */
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
@@ -27,8 +29,8 @@
 }
 
 .products {
-  background-image: '/images/istanbul.jpg';
-  background-position:center;
+  /* background-image: url(./public/images/istanbul.jpg); */
+  background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
   color: #fff;
@@ -36,8 +38,8 @@
 }
 
 .sign-up {
-  background-image:'/images/oludeniz.jpg';
-  background-position:center;
+  /* background-image:url(./public/images/oludeniz.jpg); */
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;

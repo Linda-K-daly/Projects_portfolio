@@ -1,13 +1,16 @@
+/*  CDD de Linda */
+
+
 video {
     object-fit: cover;
     width: 100%;
     height: 100%;
     position: fixed;
-    z-index: 1;
+    z-index: -1;
 } 
 
 .hero-container {
-    /* background: 'images/kaput.jpg' center center/cover no-repeat; */
+    /* background: url('/images/img-home.jpg') center center/cover no-repeat; */
     height: 100vh;
     width: 100%;
     display: flex;
@@ -37,7 +40,7 @@ video {
 }
 
 .hero-btns .btn {
-    margin:6px;
+    margin: 6px;
 }
 
 .fa-play-circle {

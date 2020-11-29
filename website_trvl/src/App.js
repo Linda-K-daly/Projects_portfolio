@@ -6,6 +6,7 @@ import Home from './components/pages/Home'
 import SignUp from './components/pages/SignUp';
 import Products from './components/pages/Products';
 import Services from './components/pages/Services';
+
 function App() {
   return (
     <div className="App">
